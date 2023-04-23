@@ -11,8 +11,8 @@
 ### I'm a FrontEnd Developer
 
 - ⚡ I like to write code
-- 🏃 I like running marathons
-- 🌐 I like working in ArcGIS
+- 🏃 I like running marathons, study judo, swimming, study CrossFit, Yoga and Pilates
+- 🌐 I like working in ArcGIS ESRI, QGIS, SAS Planet, MapInfo, Global Mapper
 
 ---
 
