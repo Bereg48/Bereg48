@@ -19,7 +19,8 @@ Welcome to my GitHub page!
 
 ---
 
-### :fire: My Stats :
+### 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=:fire:+My+Stats)](https://git.io/typing-svg):fire: My Stats :
 
 <div align="center">
 
