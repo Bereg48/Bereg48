@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Ivan
+### Hey! Nice to see you.👋
+Welcome to my GitHub page!
 
 ![](https://komarev.com/ghpvc/?username=Bereg48)
 
@@ -10,7 +11,7 @@
 
 ---
 
-### I'm a FrontEnd Developer
+### I'm a Backend Developer
 
 - ⚡ I like to write code
 - 🏃 I like running marathons, study judo, swimming, study CrossFit, Yoga and Pilates
@@ -18,31 +19,19 @@
 
 ---
 
-### :fire: My Stats :
+### 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=:fire:+My+Stats)](https://git.io/typing-svg):fire: My Stats :
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bereg48&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
-[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bereg48&theme=great-gatsby&#41;)
-
-
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bereg48&theme=great-gatsby&show_icons=true) 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bereg48&theme=dark&background=000000)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bereg48&theme=great-gatsby&show_icons=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bereg48&theme=merko)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bereg48&theme=dark&background=000000)
 </div>
 
 
-<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bereg48&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 
 
