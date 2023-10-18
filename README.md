@@ -13,9 +13,11 @@ Welcome to my GitHub page!
 ---
 
 ### I'm a Backend Developer
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
 - ⚡ I like to write code
-- ⚡ I have experience in developing projects in Django and Django rest framework ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+- ⚡ I have experience in developing projects in Django and Django rest framework 
 - 🏃 I like running marathons, study judo, swimming, study CrossFit, Yoga and Pilates
 - 🌐 I like working in ArcGIS ESRI, QGIS, SAS Planet, MapInfo, Global Mapper
 
