@@ -48,6 +48,7 @@ Welcome to my GitHub page!
 <a href="https://twitter.com/beregovii48"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
 <a href="https://www.instagram.com/wadim_forfun/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 <a href="https://t.me/Beregovii"><img src="https://img.icons8.com/color/48/000000/telegram-app.png"/></a>
+<a href="https://t.me/Beregovii"><img src="https://img.icons8.com/color/48/000000/yandex-app.png"/></a>
 </p>
 
 
