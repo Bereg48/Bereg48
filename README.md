@@ -22,7 +22,7 @@ Welcome to my GitHub page!
 
 
 - ⚡ I like to write code
-- ⚡ I have experience in developing projects in Django and Django rest framework 
+- ⚡ I have experience in developing projects as part of a high-level Python web framework Django and Django rest framework 
 - 🏃 I like running marathons, study judo, swimming, study CrossFit, Yoga and Pilates
 - 🌐 I like working in ArcGIS ESRI, QGIS, SAS Planet, MapInfo, Global Mapper
 
