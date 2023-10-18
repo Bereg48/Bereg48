@@ -48,8 +48,8 @@ Welcome to my GitHub page!
 <a href="https://twitter.com/beregovii48"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
 <a href="https://www.instagram.com/wadim_forfun/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 <a href="https://t.me/Beregovii"><img src="https://img.icons8.com/color/48/000000/telegram-app.png"/></a>
-<a href="https://t.me/Beregovii"><img src="https://icons8.ru/icon/Pdt19CVXcXKo/yandex-mail"/></a>
-
+<a href="https://t.me/Beregovii"><img src="[https://icons8.ru/icon/Pdt19CVXcXKo/yandex-mail](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4t6-Xxb0EjM%2Fmaxresdefault.jpg&lr=29392&pos=1&rpt=simage&text=значок%20яндекс%20почты%20на%20https%3A%2F%2Fimg.icons8.com)https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4t6-Xxb0EjM%2Fmaxresdefault.jpg&lr=29392&pos=1&rpt=simage&text=значок%20яндекс%20почты%20на%20https%3A%2F%2Fimg.icons8.com"/></a>
+https://icons8.ru/icon/Pdt19CVXcXKo/yandex-mail
 
 </p>
 
