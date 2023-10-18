@@ -25,6 +25,7 @@ Welcome to my GitHub page!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bereg48&theme=great-gatsby&show_icons=true)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bereg48&theme=dark&background=000000)
+### GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
