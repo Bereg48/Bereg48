@@ -22,7 +22,9 @@ Welcome to my GitHub page!
 
 
 - ⚡ I like to write code
-- ⚡ I have experience in developing projects as part of a high-level Python web framework Django and Django rest framework 
+- ⚡ I have experience in developing projects as part of a high-level Python web framework Django and Django rest framework
+- ⚡ When developing my projects, I use a Postgresql relational database
+- ⚡ When creating web servers in my projects, I use Nginx and Gunicorn
 - 🏃 I like running marathons, study judo, swimming, study CrossFit, Yoga and Pilates
 - 🌐 I like working in ArcGIS ESRI, QGIS, SAS Planet, MapInfo, Global Mapper
 
@@ -38,7 +40,15 @@ Welcome to my GitHub page!
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
+### 📫 Connect with me :
 
+<p align='center'>
+<a href="https://www.linkedin.com/in/vadym-beregovii-56b143135/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://www.facebook.com/vadim.beregovyy"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href="https://twitter.com/beregovii48"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
+<a href="https://www.instagram.com/wadim_forfun/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+<a href="https://t.me/Beregovii"><img src="https://img.icons8.com/color/48/000000/telegram-app.png"/></a>
+</p>
 
 
 
