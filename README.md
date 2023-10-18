@@ -27,7 +27,7 @@ Welcome to my GitHub page!
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bereg48&theme=dark&background=000000)
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bereg48&theme=dark&background=000000)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bereg48&theme=great-gatsby&show_icons=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
