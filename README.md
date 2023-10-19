@@ -50,8 +50,9 @@ Welcome to my GitHub page!
 <a href="https://t.me/Beregovii"><img src="https://img.icons8.com/color/48/000000/telegram-app.png"/></a>
 <a href="mailto:andreyanovi@yandex.ru"><img src="https://icons8.com/icon/131/search.png" alt="Email" style="width: 48px; height: 48px;"></a>
 <a href="mailto:andreyanovi@yandex.ru">
-  <img src="https://example.com/images/email.png" alt="Email" style="width: 48px; height: 48px;">
+  <img src="https://img.icons8.com/ios/50/mail.png" alt="mail" style="width: 48px; height: 48px;">
 </a>
+<img width="50" height="50" src="https://img.icons8.com/ios/50/mail.png" alt="mail"/>
 
 
 
