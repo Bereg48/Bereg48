@@ -48,7 +48,7 @@ Welcome to my GitHub page!
 <a href="https://twitter.com/beregovii48"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
 <a href="https://www.instagram.com/wadim_forfun/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 <a href="https://t.me/Beregovii"><img src="https://img.icons8.com/color/48/000000/telegram-app.png"/></a>
-<a href="mailto:andreyanovi@yandex.ru"><img src="[путь_к_картинке" alt="Email](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fcdn4.telegram-cdn.org%2Ffile%2FDk0qxd5MdCm4yjfSKFnBNxPb7rF35tDc8HjzHI5E1YDXutcrDTA0xLp2h7khvUe4rt8_-FfzS-ak3EK6oeTlLj-YVs3QCQ4taq6zhipxfAVohu2wf34ODK4Td5oxiEpeBN6jm-1TMv3FmSo_D1fGjXxbNIrSGxdOCm5iMRjUIeW82iDILcHwjbM-3tubLmjkY8rKQyc9Ha4DWQrz6sBvj0W4cBoKO4pnna3sA07ojBgUOGmWOqUAv3iN_VScTVIXYqK5o6keIw8PATtA8L8Z08b46hySBl8u9bELF3RfHIEydyASzMzEoAEyy0YVJcx4AXIT9QY10Zl_ULP97QCskg.jpg&lr=29392&pos=7&rpt=simage&text=яндекс%20почта%20картинки)https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fcdn4.telegram-cdn.org%2Ffile%2FDk0qxd5MdCm4yjfSKFnBNxPb7rF35tDc8HjzHI5E1YDXutcrDTA0xLp2h7khvUe4rt8_-FfzS-ak3EK6oeTlLj-YVs3QCQ4taq6zhipxfAVohu2wf34ODK4Td5oxiEpeBN6jm-1TMv3FmSo_D1fGjXxbNIrSGxdOCm5iMRjUIeW82iDILcHwjbM-3tubLmjkY8rKQyc9Ha4DWQrz6sBvj0W4cBoKO4pnna3sA07ojBgUOGmWOqUAv3iN_VScTVIXYqK5o6keIw8PATtA8L8Z08b46hySBl8u9bELF3RfHIEydyASzMzEoAEyy0YVJcx4AXIT9QY10Zl_ULP97QCskg.jpg&lr=29392&pos=7&rpt=simage&text=яндекс%20почта%20картинки" style="width: 48px; height: 48px;">
+<a href="mailto:andreyanovi@yandex.ru"><img src="путь_к_картинке" alt="Email" style="width: 48px; height: 48px;">
 </a>
 
 </p>
