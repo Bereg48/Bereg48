@@ -48,7 +48,7 @@ Welcome to my GitHub page!
 <a href="https://twitter.com/beregovii48"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
 <a href="https://www.instagram.com/wadim_forfun/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 <a href="https://t.me/Beregovii"><img src="https://img.icons8.com/color/48/000000/telegram-app.png"/></a>
-<a href="mailto:andreyanovi@yandex.ru"><img src="https://icons8.ru/icon/Pdt19CVXcXKo/yandex-mail" alt="Email" style="width: 48px; height: 48px;"></a>
+<a href="mailto:andreyanovi@yandex.ru"><img src="https://icons8.com/icon/131/search" alt="Email" style="width: 48px; height: 48px;"></a>
 <a href="mailto:andreyanovi@yandex.ru">
   <img src="https://example.com/images/email.png" alt="Email" style="width: 48px; height: 48px;">
 </a>
