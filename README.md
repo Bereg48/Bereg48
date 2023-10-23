@@ -38,7 +38,7 @@ Welcome to my GitHub page!
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bereg48&theme=dark&background=000000)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bereg48&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bereg48&theme=merko)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bereg48&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ### 📫 Connect with me :
